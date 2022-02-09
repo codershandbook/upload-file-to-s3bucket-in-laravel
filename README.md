@@ -1,5 +1,5 @@
 
-# Laravel Example: Upload file to S3 Bucket
+# Laravel Example: Upload file to AWS S3 Bucket
 
 This is a sample project to demonstrate how we can upload file to S3 Bucket using laravel's storage facade.
 
