@@ -20,5 +20,4 @@ curl --location --request POST 'http://localhost:8000/upload' \
 curl --location --request GET '<file_path>'
 ```
 
-**[Read documentation here...]("https://codershandbook.com/how-to-upload-file-to-s3-bucket-in-laravel")**
-
+**Click <a href="https://codershandbook.com/how-to-upload-file-to-s3-bucket-in-laravel">here</a> to read detailed documentation.**
